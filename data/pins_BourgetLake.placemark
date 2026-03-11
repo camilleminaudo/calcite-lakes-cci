@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Placemarks>
+    <Placemark name="pin_1">
+        <LABEL>Pin 1</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.658233642578125</LATITUDE>
+        <LONGITUDE>5.877525806427002</LONGITUDE>
+        <PIXEL_X>35.5</PIXEL_X>
+        <PIXEL_Y>56.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_2">
+        <LABEL>Pin 2</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.665863037109375</LATITUDE>
+        <LONGITUDE>5.880815029144287</LONGITUDE>
+        <PIXEL_X>35.5</PIXEL_X>
+        <PIXEL_Y>53.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_3">
+        <LABEL>Pin 3</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.67424011230469</LATITUDE>
+        <LONGITUDE>5.880559921264648</LONGITUDE>
+        <PIXEL_X>34.5</PIXEL_X>
+        <PIXEL_Y>50.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_4">
+        <LABEL>Pin 4</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.680824279785156</LATITUDE>
+        <LONGITUDE>5.875665187835693</LONGITUDE>
+        <PIXEL_X>32.5</PIXEL_X>
+        <PIXEL_Y>48.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_5">
+        <LABEL>Pin 5</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.688453674316406</LATITUDE>
+        <LONGITUDE>5.87895393371582</LONGITUDE>
+        <PIXEL_X>32.5</PIXEL_X>
+        <PIXEL_Y>45.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_6">
+        <LABEL>Pin 6</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.69428634643555</LATITUDE>
+        <LONGITUDE>5.877604007720947</LONGITUDE>
+        <PIXEL_X>31.5</PIXEL_X>
+        <PIXEL_Y>43.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_7">
+        <LABEL>Pin 7</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.700870513916016</LATITUDE>
+        <LONGITUDE>5.872711181640625</LONGITUDE>
+        <PIXEL_X>29.5</PIXEL_X>
+        <PIXEL_Y>41.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_8">
+        <LABEL>Pin 8</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.705955505371094</LATITUDE>
+        <LONGITUDE>5.874904155731201</LONGITUDE>
+        <PIXEL_X>29.5</PIXEL_X>
+        <PIXEL_Y>39.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_9">
+        <LABEL>Pin 9</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.711788177490234</LATITUDE>
+        <LONGITUDE>5.8735551834106445</LONGITUDE>
+        <PIXEL_X>28.5</PIXEL_X>
+        <PIXEL_Y>37.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_10">
+        <LABEL>Pin 10</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.71942138671875</LATITUDE>
+        <LONGITUDE>5.8768181800842285</LONGITUDE>
+        <PIXEL_X>28.5</PIXEL_X>
+        <PIXEL_Y>34.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_11">
+        <LABEL>Pin 11</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.72600173950195</LATITUDE>
+        <LONGITUDE>5.871952056884766</LONGITUDE>
+        <PIXEL_X>26.5</PIXEL_X>
+        <PIXEL_Y>32.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_12">
+        <LABEL>Pin 12</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.72929382324219</LATITUDE>
+        <LONGITUDE>5.869511127471924</LONGITUDE>
+        <PIXEL_X>25.5</PIXEL_X>
+        <PIXEL_Y>31.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_13">
+        <LABEL>Pin 13</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.731834411621094</LATITUDE>
+        <LONGITUDE>5.870607852935791</LONGITUDE>
+        <PIXEL_X>25.5</PIXEL_X>
+        <PIXEL_Y>30.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_14">
+        <LABEL>Pin 14</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.734378814697266</LATITUDE>
+        <LONGITUDE>5.871703147888184</LONGITUDE>
+        <PIXEL_X>25.5</PIXEL_X>
+        <PIXEL_Y>29.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_15">
+        <LABEL>Pin 15</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.74095916748047</LATITUDE>
+        <LONGITUDE>5.866816997528076</LONGITUDE>
+        <PIXEL_X>23.5</PIXEL_X>
+        <PIXEL_Y>27.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_16">
+        <LABEL>Pin 16</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.743499755859375</LATITUDE>
+        <LONGITUDE>5.867914199829102</LONGITUDE>
+        <PIXEL_X>23.5</PIXEL_X>
+        <PIXEL_Y>26.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_17">
+        <LABEL>Pin 17</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.74679183959961</LATITUDE>
+        <LONGITUDE>5.865462779998779</LONGITUDE>
+        <PIXEL_X>22.5</PIXEL_X>
+        <PIXEL_Y>25.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_18">
+        <LABEL>Pin 18</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.75082778930664</LATITUDE>
+        <LONGITUDE>5.859488010406494</LONGITUDE>
+        <PIXEL_X>19.5</PIXEL_X>
+        <PIXEL_Y>24.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_19">
+        <LABEL>Pin 19</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.755916595458984</LATITUDE>
+        <LONGITUDE>5.86168098449707</LONGITUDE>
+        <PIXEL_X>19.5</PIXEL_X>
+        <PIXEL_Y>22.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_20">
+        <LABEL>Pin 20</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.757408142089844</LATITUDE>
+        <LONGITUDE>5.854602813720703</LONGITUDE>
+        <PIXEL_X>17.5</PIXEL_X>
+        <PIXEL_Y>22.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_21">
+        <LABEL>Pin 21</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.759952545166016</LATITUDE>
+        <LONGITUDE>5.8557000160217285</LONGITUDE>
+        <PIXEL_X>17.5</PIXEL_X>
+        <PIXEL_Y>21.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_22">
+        <LABEL>Pin 22</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.76249313354492</LATITUDE>
+        <LONGITUDE>5.856797218322754</LONGITUDE>
+        <PIXEL_X>17.5</PIXEL_X>
+        <PIXEL_Y>20.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_23">
+        <LABEL>Pin 23</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.772361755371094</LATITUDE>
+        <LONGITUDE>5.849472999572754</LONGITUDE>
+        <PIXEL_X>14.5</PIXEL_X>
+        <PIXEL_Y>17.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_24">
+        <LABEL>Pin 24</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.77744674682617</LATITUDE>
+        <LONGITUDE>5.85166597366333</LONGITUDE>
+        <PIXEL_X>14.5</PIXEL_X>
+        <PIXEL_Y>15.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_25">
+        <LABEL>Pin 25</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.78402328491211</LATITUDE>
+        <LONGITUDE>5.846786022186279</LONGITUDE>
+        <PIXEL_X>12.5</PIXEL_X>
+        <PIXEL_Y>13.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_26">
+        <LABEL>Pin 26</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.78731155395508</LATITUDE>
+        <LONGITUDE>5.844346046447754</LONGITUDE>
+        <PIXEL_X>11.5</PIXEL_X>
+        <PIXEL_Y>12.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_27">
+        <LABEL>Pin 27</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.78805923461914</LATITUDE>
+        <LONGITUDE>5.840803146362305</LONGITUDE>
+        <PIXEL_X>10.5</PIXEL_X>
+        <PIXEL_Y>12.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_28">
+        <LABEL>Pin 28</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.7928352355957</LATITUDE>
+        <LONGITUDE>5.831297874450684</LONGITUDE>
+        <PIXEL_X>7.5</PIXEL_X>
+        <PIXEL_Y>11.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_29">
+        <LABEL>Pin 29</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.79134750366211</LATITUDE>
+        <LONGITUDE>5.838365077972412</LONGITUDE>
+        <PIXEL_X>9.5</PIXEL_X>
+        <PIXEL_Y>11.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+    <Placemark name="pin_30">
+        <LABEL>Pin 30</LABEL>
+        <DESCRIPTION />
+        <LATITUDE>45.79537582397461</LATITUDE>
+        <LONGITUDE>5.832397937774658</LONGITUDE>
+        <PIXEL_X>7.5</PIXEL_X>
+        <PIXEL_Y>10.5</PIXEL_Y>
+        <STYLE_CSS>symbol:pin; fill:#0000ff; fill-opacity:0.7; stroke:#ffffff; stroke-opacity:1.0; stroke-width:0.5</STYLE_CSS>
+    </Placemark>
+</Placemarks>
