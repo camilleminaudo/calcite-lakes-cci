@@ -14,9 +14,31 @@ library(ggpubr)
 datapath <- "C:/Users/Camille Minaudo/OneDrive - Universitat de Barcelona/Documentos/PROJECTS/CALCYOM/lakes_cci_database/extracted_Rw_time_series/"
 
 
-# ------------- Plot Pyramid Lake reprocessed ------------------
 
-myfile <- "Rw_OLCI_L2_Pyramid_GLWD00000411_20160425_20241231.csv"
+get_diff_of_sorted_x <- function(df, band, metric){
+
+  x <- df[[metric]][which(df$band == band)]
+  x <- x[!is.na(x)]
+  x_norm <- (x-min(x))/max(x)
+  diff_of_sorted <- diff(sort(x))
+
+  return(diff_of_sorted)
+}
+
+
+make_it_percentiles <- function(x){
+  x <- x[!is.na(x)]
+
+  order_it <- sort(x)
+  rank_it <- seq(1,length(x))
+
+  frequ <- order_it
+}
+
+
+# ------------- Plot Pyramid Lake reprocessed ------------------
+setwd(datapath)
+myfile <- "Rw_L2_BOURGET_HYLA00014167_20160101_20251231.csv"
 filename_split <- str_split(myfile, pattern = "_")[[1]]
 
 sensor = filename_split[2]
@@ -27,6 +49,20 @@ lakeID = filename_split[5]
 data <- read.csv(myfile)
 data$date <- as.Date(data$date)
 
+
+diff_of_sorted <- get_diff_of_sorted_x(df = data, band = "BGR", metric = "p95")
+
+ggplot(data = data.frame(x = seq(1,length(diff_of_sorted)),
+                         y = diff_of_sorted), aes(x, y))+geom_line()+theme_bw()
+
+
+
+
+
+
+
+
+
 year_start = min(year(data$date))
 year_end = max(year(data$date))
 
@@ -35,8 +71,13 @@ longterm_med <- median(data$median[which(data$band==myvar)], na.rm = T)
 ggplot(data[which(data$band==myvar),])+
   geom_point(aes(date, p90/longterm_med), color = "black", alpha=0.5, size=3)+
   xlab("")+
-  ggtitle("OLCI L2 - Pyramid lake, Nevada, USA")+
+  ggtitle(paste0("OLCI L2 - lake ",lakename))+
   theme_bw()
+
+med = median(data$p95[which(data$band==myvar)], na.rm = T)
+avg = mean(data$p95[which(data$band==myvar)], na.rm = T)
+
+ggplot(data[which(data$band==myvar),], aes(p95))+geom_density()
 
 
 
