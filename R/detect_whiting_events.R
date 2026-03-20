@@ -13,7 +13,7 @@ library(dplyr)
 
 
 detect_whiting_events <- function(df, value_col = "p90",
-                                  min_duration = 7,
+                                  min_duration = 15,
                                   z_thresh = 5,
                                   max_gap_days = 15) {
 
@@ -100,7 +100,7 @@ df$date <- as.Date(df$date)
 # Keep one band (e.g., BGR)
 df_bgr <- df %>% filter(band == "BGR")
 
-res <- detect_whiting_events(df_bgr, value_col = "p95", z_thresh = 3)
+res <- detect_whiting_events(df_bgr, value_col = "median", z_thresh = 4)
 
 df_out <- res$data
 events <- res$events
@@ -108,8 +108,8 @@ events
 
 
 ggplot(df_out)+
-  geom_path(aes(date, p90), alpha=0.5, size=.5)+
-  geom_point(data = df_out[df_out$valid_event,], aes(date, p95, colour = valid_event), alpha=0.5, size=3)+
+  geom_path(aes(date, median), alpha=0.5, size=.5)+
+  geom_point(data = df_out[df_out$valid_event,], aes(date, median, colour = valid_event), alpha=0.5, size=3)+
   xlab("")+
   # ggtitle(paste0("OLCI L2 - lake ",lakename))+
   theme_bw()
